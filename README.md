@@ -1,5 +1,5 @@
 
-# Ribbit King 💸
+# Ribbitt King 💸
 
 A modern web application starter built with Webpack, Sass, Tailwind CSS, and PostCSS — fully customizable and production-ready for creative front-end projects.
 
@@ -19,7 +19,7 @@ A modern web application starter built with Webpack, Sass, Tailwind CSS, and Pos
 ## 📁 Project Structure
 
 ```
-📦 Ribbit King/
+📦 Ribbitt King/
  ┣ 📂 src/
  ┃ ┣ 📂 assets/
  ┃ ┣ 📂 styles/
@@ -38,8 +38,8 @@ A modern web application starter built with Webpack, Sass, Tailwind CSS, and Pos
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Ribbit King.git
-cd Ribbit King
+git clone https://github.com/yourusername/Ribbitt King.git
+cd Ribbitt King
 ```
 
 ### 2. Install Dependencies

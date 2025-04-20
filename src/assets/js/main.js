@@ -1,8 +1,8 @@
 /*  ========= js documentation ==============
 
- * theme name: Ribbit King
+ * theme name: Ribbitt King
  * version: 1.0
- * description: Ribbit King - Ribbit coin ICO & Crypto Tailwindcss Template 
+ * description: Ribbitt King - Ribbitt coin ICO & Crypto Tailwindcss Template 
  * author: Pixelaxis
  * author-url: https://themeforest.net/user/pixelaxis
  * 
