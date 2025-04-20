@@ -80,9 +80,9 @@ Make sure to configure:
 
 ---
 
-## 👨‍💻 Author
 
-**Mohammad Sakib**  
+
+
 Built with 💖 and Webpack
 
 ---
