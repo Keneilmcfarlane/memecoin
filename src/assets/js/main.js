@@ -1,8 +1,8 @@
 /*  ========= js documentation ==============
 
- * theme name: Memeco
+ * theme name: Ribbit King
  * version: 1.0
- * description: Memeco - Meme coin ICO & Crypto Tailwindcss Template 
+ * description: Ribbit King - Meme coin ICO & Crypto Tailwindcss Template 
  * author: Pixelaxis
  * author-url: https://themeforest.net/user/pixelaxis
  * 
